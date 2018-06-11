@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAlunos", "TesteAlunos\TesteAlunos.csproj", "{479AFF5F-08E4-4622-B7B6-B37908AF93E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alunos2", "Alunos2\Alunos2.csproj", "{3432AA45-A7F1-4AF7-9469-0485D2D4812C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479AFF5F-08E4-4622-B7B6-B37908AF93E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479AFF5F-08E4-4622-B7B6-B37908AF93E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479AFF5F-08E4-4622-B7B6-B37908AF93E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479AFF5F-08E4-4622-B7B6-B37908AF93E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3432AA45-A7F1-4AF7-9469-0485D2D4812C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3432AA45-A7F1-4AF7-9469-0485D2D4812C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3432AA45-A7F1-4AF7-9469-0485D2D4812C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3432AA45-A7F1-4AF7-9469-0485D2D4812C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D21C2DE-9CC0-47BC-B055-CB913ECF6131}
+	EndGlobalSection
+EndGlobal
